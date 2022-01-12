@@ -1,6 +1,6 @@
 ## Hello! My name is Kalan, or @Kalankaboom online 🤙🏽👌🏽🌺
 
-[<img align="right" alt="Fractal GIF" width="300px" src="https://user-images.githubusercontent.com/97612117/149221486-d505e0cc-fb5b-4b26-b158-458c0aa47a2a.gif"/>][website]
+[<img align="right" alt="Fractal GIF" width="300px" src="https://user-images.githubusercontent.com/97612117/149222245-7a4a047a-a8c3-41d8-834c-2b6acd8ae8ef.gif"/>][website]
 
 #### Welcome to my GitHub page!
 
